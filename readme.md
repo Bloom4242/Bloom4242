@@ -9,5 +9,4 @@ I'm a software engineer, and backend developer
   - **Personal Site:** `blooms.cloud`
 
 
-![](https://github-readme-stats.vercel.app/api?
-username=bloom4242&amp;show_icons=true&theme=radical)
+![Blooms's github stats](https://github-readme-stats.vercel.app/api?username=bloom4242&show_icons=true&theme=radical)
