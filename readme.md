@@ -1,5 +1,4 @@
 <h1 align="center">Hey! I'm Bloom!</h1>
-<h3 align="center">A retarded developer that doesn't know anything!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloom4242" alt="bloom4242" /> </p>
 
